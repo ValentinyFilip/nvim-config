@@ -82,6 +82,8 @@ return {
                     "kotlin_language_server",
                     "rust_analyzer",
                     "lua_ls",
+                    "clangd",
+                    "zls",
                 },
                 handlers = {
                     -- this first function is the "default handler"

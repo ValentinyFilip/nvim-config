@@ -4,7 +4,8 @@ return {
 opts = {
             -- A list of parser names, or "all"
             ensure_installed = {
-                "vimdoc", "c_sharp", "bash", "java", "markdown", "markdown_inline", "dockerfile", "kotlin", "lua", 
+                "vimdoc", "c_sharp", "bash", "java", "markdown", "markdown_inline",
+                "dockerfile", "kotlin", "lua", "c", "zig",
             },
 
             -- Install parsers synchronously (only applied to `ensure_installed`)
